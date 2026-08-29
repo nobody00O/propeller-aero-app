@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          herf="www.reactapplication.com";
+          herf ="www.reactapplication.com";
           target="_blank"
           rel="noopener noreferrer"
         >
